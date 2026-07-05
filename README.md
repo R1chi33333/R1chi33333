@@ -28,6 +28,7 @@ Repos are tagged by category — browse by topic: [`swe`](https://github.com/sea
 
 | Project | What it is | |
 |---|---|---|
+| [nz-netpay](https://github.com/R1chi33333/nz-netpay) | ASP.NET Core 8 API for NZ take-home pay — PAYE, ACC, KiwiSaver, student loan, every rate cited to IRD/ACC | [Live ↗](https://nz-netpay.onrender.com) |
 | [nz-bank-parser](https://github.com/R1chi33333/nz-bank-parser) | Zero-dependency TypeScript parser for the four big NZ banks' CSV exports, on npm | [Live ↗](https://nz-bank-parser.vercel.app) |
 | [FlatSplit](https://github.com/R1chi33333/flatsplit) | Expense splitting for NZ flats — minimum-transfer settlement, bank CSV import | [Live ↗](https://flatsplit-nz.vercel.app) |
 | [NZ Housing Observatory](https://github.com/R1chi33333/nz-housing-observatory) | 46 years of NZ house prices & rents on an interactive map, refreshed monthly by CI | [Live ↗](https://nz-housing-observatory.vercel.app) |
